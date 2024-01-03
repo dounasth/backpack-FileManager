@@ -37,5 +37,11 @@
                 "Backpack\\FileManager\\FileManagerServiceProvider"
             ]
         }
-    }
+    },
+	"repositories": [
+		{
+            "type": "git",
+            "url": "https://github.com/dounasth/backpack-CRUD.git"
+        }
+	]
 }
